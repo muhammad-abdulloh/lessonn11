@@ -2,3 +2,5 @@ nima gap tuzumi
 2 -laine
 test 3
 httygiu
+
+bu faylimda o'zgarish qildim
